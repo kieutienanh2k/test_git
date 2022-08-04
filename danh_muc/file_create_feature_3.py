@@ -4,3 +4,4 @@ print("abc")
 print("jqk")
 print("rebase")
 from danh_muc.file_1 import A
+print("test")

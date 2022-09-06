@@ -3,3 +3,4 @@ print("file_1")
 class A:
     pass
     print("x")
+    print("test")

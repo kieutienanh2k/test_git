@@ -13,3 +13,4 @@ print("push 3")
 
 print("start 1")
 print("start 2")
+print("start 3")

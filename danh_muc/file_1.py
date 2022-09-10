@@ -10,3 +10,5 @@ print("commit 2")
 print("commit 3")
 
 print("push 3")
+
+print("start 1")

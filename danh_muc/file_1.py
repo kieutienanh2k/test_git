@@ -14,3 +14,5 @@ print("push 3")
 print("start update jqk 1")
 print("start update jqk 2")
 print("start update jqk 3")
+
+print("test delete commit")

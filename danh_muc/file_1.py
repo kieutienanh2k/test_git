@@ -16,3 +16,5 @@ print("start update jqk 2")
 print("start update jqk 3")
 
 print("test delete commit")
+
+print("ORIG_HEAD")

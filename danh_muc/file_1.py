@@ -20,3 +20,5 @@ print("test delete commit")
 print("ORIG_HEAD")
 
 print("test_tag")
+
+print("anh tuan")

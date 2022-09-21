@@ -14,4 +14,11 @@ print("push 3")
 print("start update jqk 1")
 print("start update jqk 2")
 print("start update jqk 3")
-print("test tag")
+
+print("test delete commit")
+
+print("ORIG_HEAD")
+
+print("anh tuan")
+
+print("test cherry pick")
